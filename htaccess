@@ -1,0 +1,5 @@
+<IfModule mod_rewrite.c>
+  RewriteEngine On RewriteBase / RewriteRule ^index\.html$ - [L] RewriteCond
+  %{REQUEST_blog} !-f RewriteCond %{REQUEST_portfolio} !-d RewriteRule .
+  /index.html [L]
+</IfModule>

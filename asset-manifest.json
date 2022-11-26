@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "./static/css/main.c420d377.css",
+    "main.js": "./static/js/main.81be1925.js",
+    "static/js/787.a2552215.chunk.js": "./static/js/787.a2552215.chunk.js",
+    "static/media/blogpage2.png": "./static/media/blogpage2.0ed37cae5dfc3ff74db0.png",
+    "static/media/blogpage1.png": "./static/media/blogpage1.eadc0b3bb94857261a9d.png",
+    "static/media/mainimg.png": "./static/media/mainimg.928ae4b89b485d2ec248.png",
+    "static/media/works1.png": "./static/media/works1.f9f939b40a465a4ca3ae.png",
+    "static/media/lines.png": "./static/media/lines.f01c4035219adc0917e6.png",
+    "static/media/lightline.png": "./static/media/lightline.631bec9570fb95630774.png",
+    "static/media/heroorange.png": "./static/media/heroorange.7a5c5fdbe6f07c25ce82.png",
+    "static/media/contactvectorpink.png": "./static/media/contactvectorpink.334d48f635c2204a625c.png",
+    "static/media/brandesvector.png": "./static/media/brandesvector.1dde484f78dc13ee8677.png",
+    "static/media/servicesvector4.png": "./static/media/servicesvector4.033982b68cc6b6249c8c.png",
+    "static/media/testimonialsvector.png": "./static/media/testimonialsvector.858a2fe6fe4c7a46a592.png",
+    "static/media/blogpageredvector.png": "./static/media/blogpageredvector.946726f51e0e67ef0f92.png",
+    "static/media/experiencevector.png": "./static/media/experiencevector.726af242ca77b8443b28.png",
+    "static/media/developermain.png": "./static/media/developermain.868eb52f34f19e567c19.png",
+    "static/media/servicesvector1.png": "./static/media/servicesvector1.efa2833494f1bcee4e7a.png",
+    "static/media/color.png": "./static/media/color.49b7d3303326111db59d.png",
+    "static/media/patten2.png": "./static/media/patten2.596db06af3f2bd930b55.png",
+    "static/media/patten1.png": "./static/media/patten1.ad27457a7323de6a7c10.png",
+    "index.html": "./index.html",
+    "static/media/light.svg": "./static/media/light.aca0aec3b5d6995e914d2aa20933e1b3.svg",
+    "static/media/dark.svg": "./static/media/dark.7a45ebf0a54952f98064388319b17b43.svg",
+    "static/media/close.svg": "./static/media/close.e4a0bde2c88920b66e1a.svg",
+    "main.c420d377.css.map": "./static/css/main.c420d377.css.map",
+    "main.81be1925.js.map": "./static/js/main.81be1925.js.map",
+    "787.a2552215.chunk.js.map": "./static/js/787.a2552215.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c420d377.css",
+    "static/js/main.81be1925.js"
+  ]
+}
